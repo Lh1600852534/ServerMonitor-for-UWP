@@ -39,7 +39,7 @@ ServerMonitor for UWP
 ## 其他  
 
 <a name="协议"></a>  
-### 协议
+### 协议 
 
 * GNU General Public License 2.1
 
